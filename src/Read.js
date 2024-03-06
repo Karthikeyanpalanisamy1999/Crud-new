@@ -23,7 +23,7 @@ function Read() {
   return (
     <div className="d-flex flex-wrap vh-100 bg-dark justify-content-center align-items-center">
       <div className="w-50 bg-white justify-content-center align-items-center">
-         <h3 className="d-flex justify-content-center align-items-center mt-5">List Of Details</h3>
+         <h3 className="d-flex justify-content-center align-items-center mt-5">List Of Produts</h3>
           <div>
              <Link to='/create' className="btn btn-success text-dark mt-3 ms-3 mb-3"><FaUserPlus/></Link>
           </div>
